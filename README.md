@@ -32,11 +32,14 @@ List yang ditampilkan selalu up-to-date dengan terhubung ke internet, serta data
 
 ### __Screenshoot dari Aplikasi__
 ![screenshots](https://github.com/sbbriggitash/MovieTheatre/blob/master/6.PNG)<br>
+
 Popular | Now Playing
------------- | ------------
+------------ | -------------
 ![screenshots](https://github.com/sbbriggitash/MovieTheatre/blob/master/1.PNG) | ![screenshots](https://github.com/sbbriggitash/MovieTheatre/blob/master/2.PNG)<br>
+
 Coming Soon | Top Rated
------------- | ------------
+------------ | -------------
 ![screenshots](https://github.com/sbbriggitash/MovieTheatre/blob/master/3.PNG) | ![screenshots](https://github.com/sbbriggitash/MovieTheatre/blob/master/4.PNG)<br>
+
 __*Klik button info di kanan atas untuk melihat informasi dari aplikasi tersebut*__
 ![screenshots](https://github.com/sbbriggitash/MovieTheatre/blob/master/5.PNG)<br><br>
