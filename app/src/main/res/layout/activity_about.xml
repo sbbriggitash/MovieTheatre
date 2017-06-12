@@ -59,6 +59,6 @@
         android:layout_alignTop="@+id/nama"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="29dp"
-        app:srcCompat="@drawable/icon2" />
+        app:srcCompat="@drawable/movie" />
 
 </RelativeLayout>
